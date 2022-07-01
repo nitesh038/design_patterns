@@ -1,5 +1,5 @@
-Not a thread safe Singleton Design Pattern Implementation
+A thread safe Singleton Design Pattern Implementation
 Command to compile - 
-g++ -o singleton *.cpp
+g++ -o singleton *.cpp -lpthread
 Command to run-
 ./singleton
